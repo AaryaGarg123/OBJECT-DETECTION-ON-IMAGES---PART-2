@@ -1,0 +1,31 @@
+body {
+    background-color: blueviolet;
+}
+
+a{
+    font-size: 25px;
+    color: cyan;
+    background-color: darkblue;
+    width: 100px;
+    border-radius: 50px;
+}
+
+h1{
+    font-size: 40px;
+    color:lightcyan;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px ;
+}
+
+.back{
+    float: right;
+    margin-right: 10px;
+}
